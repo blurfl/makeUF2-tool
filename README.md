@@ -9,7 +9,7 @@ Tested with the following Arduino IDE versions:
 
 ## Installation
 - Make sure you use one of the supported versions of Arduino IDE.
-- <strike>Download the tool archive from [releases page](insert address here).</strike> For now, the file 'makeUF2-tool.zip' is part of the repository.
+- Download the tool archive from [the releases page](https://github.com/blurfl/makeUF2-tool/releases).
 - In your Arduino sketchbook directory, create tools directory if it doesn't exist yet.
 - Unpack the tool into tools directory (the path will look like `<home_dir>/Arduino/tools/makeUF2/tool/makeUF2.jar)`.
 - Restart Arduino IDE. 
